@@ -20,7 +20,7 @@ export default defineNuxtConfig({
   },
   vite: {
     server: {
-      allowedHosts: ['91db-1-47-153-126.ngrok-free.app'] // 👈 เพิ่มตรงนี้
+      allowedHosts: ['efb6-1-47-153-126.ngrok-free.app']
     }
   },
   plugins:[],

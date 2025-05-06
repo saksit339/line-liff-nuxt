@@ -28,4 +28,7 @@ $ node .output/server/index.mjs
 
 # generate static project
 $ yarn generate
+
+#run ngrok for test
+& ngrok start --config ngrok.yaml nuxt
 ```
